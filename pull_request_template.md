@@ -24,6 +24,12 @@
 ### DB Migration dependency is there ?:
 - [ ] Yes
 - [ ] No
+### If Yes impact details tables/rows?:
+  - [ ] Addition
+  - [ ] Deletion
+  - [ ] Modification of table/field/value
+
+
 ### Screenshots (if appropriate):
 
 ### Checklist:
