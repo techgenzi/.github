@@ -28,7 +28,7 @@
   - [ ] Addition
   - [ ] Deletion
   - [ ] Modification of table/field/value
-
+* **Details **:
 
 ### Screenshots (if appropriate):
 
