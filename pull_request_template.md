@@ -1,5 +1,4 @@
-# Techgenzi Deployment Checklist
-<!--- Provide a general summary of your changes in the Title above -->
+# Techgenzi Deployment request
 
 ### Description of Feature/reason 
 <!--- Describe your changes in detail -->
@@ -39,4 +38,5 @@
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
 
-- [ ] ### I acknowledged & tested, and I owned any impacts on this deployment.
+### Acknowledgement:
+- [ ] I acknowledged & tested, and I owned any impacts on this deployment.
